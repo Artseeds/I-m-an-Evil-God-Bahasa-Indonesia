@@ -7,7 +7,7 @@
   "chapters": {
     "156": {
       "title": "Bertemu Kenalan Lama",
-      "volume": "00",
+      "volume": "",
       "groups": {
         "Pohon Komik": "/proxy/api/imgur/chapter/eJ8Yrh4/"
       },
@@ -15,9 +15,17 @@
     },
     "157": {
       "title": "Meledak",
-      "volume": "00",
+      "volume": "",
       "groups": {
         "Pohon Komik": "/proxy/api/imgur/chapter/nYKCUWl/"
+      },
+      "last_updated": "1616368746"
+    },
+    "158": {
+      "title": "Petarung Kelas-S yang Misterius",
+      "volume": "",
+      "groups": {
+        "Pohon Komik": "/proxy/api/imgur/chapter/8dQG7ZC/"
       },
       "last_updated": "1616368746"
     }
